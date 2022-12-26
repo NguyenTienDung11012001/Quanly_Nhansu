@@ -1,0 +1,170 @@
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\QLNhansu.exe.config
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\QLNhansu.exe
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\QLNhansu.pdb
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\BLL.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\Entities.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\DAL.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\BLL.pdb
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\Entities.pdb
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\DAL.pdb
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.csproj.AssemblyReference.cache
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.csproj.SuggestedBindingRedirects.cache
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmKhoa.resources
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.Properties.Resources.resources
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.csproj.GenerateResource.cache
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.csproj.CoreCompileInputs.cache
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.csproj.CopyComplete
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.exe
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.pdb
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\EnvDTE.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\stdole.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmMenu.resources
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmChucvu.resources
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmHocvan.resources
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmNhansu.resources
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\obj\Debug\QLKS.frmQuatrinhcongtac.resources
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\obj\Debug\QLKS.frmQuatrinhhoctap.resources
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmTimkiem_Hocvan.resources
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmThongke_Hocvan.resources
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmTimkiem_Nhansu.resources
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmThongke_Nhansu.resources
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmTimkiem_Dotuoi.resources
+C:\Users\adptt\Desktop\Do an 2\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmThongke_Tuoi.resources
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\QLNhansu.exe.config
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\QLNhansu.exe
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\QLNhansu.pdb
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\BLL.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\Entities.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\DAL.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\EnvDTE.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\stdole.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\BLL.pdb
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\Entities.pdb
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\DAL.pdb
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.csproj.AssemblyReference.cache
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.csproj.SuggestedBindingRedirects.cache
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmChucvu.resources
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmHocvan.resources
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmKhoa.resources
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmMenu.resources
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmNhansu.resources
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLKS.frmQuatrinhcongtac.resources
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLKS.frmQuatrinhhoctap.resources
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmThongke_Hocvan.resources
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmThongke_Nhansu.resources
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmThongke_Tuoi.resources
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmTimkiem_Dotuoi.resources
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmTimkiem_Hocvan.resources
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmTimkiem_Nhansu.resources
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.Properties.Resources.resources
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.csproj.GenerateResource.cache
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.csproj.CoreCompileInputs.cache
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.csproj.CopyComplete
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.exe
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.pdb
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frm_Baocao_Nhansu.resources
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmBaocao_Hocvan.resources
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmBaocao_Tuoi_Khoang.resources
+C:\Users\adptt\Desktop\NguyenTienDung\QLNhansu\obj\Debug\QLNhansu.frmBaocao_Tuoi_Nam.resources
